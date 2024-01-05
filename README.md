@@ -15,5 +15,5 @@
 ![Gross leasable area per mall over the years](https://github.com/JORDANGAMBA99/Mall-Analysis-using-Postgresql/assets/112898413/6d40e95e-6e2a-420c-967a-ca88498dea02)
 
 ## Conclusion
-## There is a clear increase in the building of malls in Asia especially in the 2000s.This is mainly due tothe record growth in population in Asian countries and also growth in their economies leading to increase in purchasing power.
+### There is a clear increase in the building of malls in Asia especially in the 2000s.This is mainly due tothe record growth in population in Asian countries and also growth in their economies leading to increase in purchasing power.
 
