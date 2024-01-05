@@ -5,6 +5,8 @@
 
 ![count of no of malls in each country](https://github.com/JORDANGAMBA99/Mall-Analysis-using-Postgresql/assets/112898413/2d856d46-19cb-40c8-8ab9-9a10ae1f7089)
 
+## Trend of Mall building Throughout the Years
+
 #### There is generally a flat trend over the years except when the Iran Mall was built in 2018. The years have been arranged in ascending order. There has been no clear upsurge in malls over the years in the countries. However, there is a clear increase in the building of malls in Asia.
 
 
