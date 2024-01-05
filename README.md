@@ -10,8 +10,10 @@
 
 ## Trend of Mall building Throughout the Years
 
-#### There is generally a flat trend over the years except when the Iran Mall was built in 2018. The years have been arranged in ascending order. There has been no clear upsurge in malls over the years in the countries. However, there is a clear increase in the building of malls in Asia.
-
+#### There is generally a flat trend over the years except when the Iran Mall was built in 2018. The years have been arranged in ascending order. There has been no clear upsurge in malls over the years in the countries.
 
 ![Gross leasable area per mall over the years](https://github.com/JORDANGAMBA99/Mall-Analysis-using-Postgresql/assets/112898413/6d40e95e-6e2a-420c-967a-ca88498dea02)
+
+## Conclusion
+## There is a clear increase in the building of malls in Asia especially in the 2000s.This is mainly due tothe record growth in population in Asian countries and also growth in their economies leading to increase in purchasing power.
 
