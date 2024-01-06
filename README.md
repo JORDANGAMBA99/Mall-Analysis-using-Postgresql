@@ -16,4 +16,5 @@
 
 ## Conclusion
 ### There is a clear increase in the building of malls in Asia especially in the 2000s.This is mainly due tothe record growth in population in Asian countries and also growth in their economies leading to increase in purchasing power.
+### Here is the article on dev.to https://dev.to/jordan_gamba/a-simple-mall-analysis-project-using-posgesql-2dd7
 
